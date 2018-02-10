@@ -1,2 +1,2 @@
-# Desafios-URI-Python
-Desafios urionlinejudge.com.br em Python 3.x
+# Python-URI-Challenges
+Python 3.x urionlinejudge.com.br challenges
